@@ -1,0 +1,8 @@
+export { default as Navbar } from './navbar'
+export { default as Cont } from './cont'
+export { default as Section } from './section'
+export { default as Uchites } from './uchites'
+export { default as Format } from './farmat'
+export { default as Kursi} from './kursi'
+export { default as Ementor } from './eMentor'
+export { default as Footer} from './footer'
